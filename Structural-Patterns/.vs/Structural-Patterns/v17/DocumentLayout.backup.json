@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Design Pattern ITI course\\Structural-Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D5A25D-932A-457A-ADC9-9E975B76B222}|Flyweight\\Flyweight.csproj|g:\\design pattern iti course\\structural-patterns\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D5A25D-932A-457A-ADC9-9E975B76B222}|Flyweight\\Flyweight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09B017-5AEE-4AA1-94E4-67E03745C716}|Proxy\\Proxy.csproj|g:\\design pattern iti course\\structural-patterns\\proxy\\atmproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F09B017-5AEE-4AA1-94E4-67E03745C716}|Proxy\\Proxy.csproj|solutionrelative:proxy\\atmproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09B017-5AEE-4AA1-94E4-67E03745C716}|Proxy\\Proxy.csproj|g:\\design pattern iti course\\structural-patterns\\proxy\\proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F09B017-5AEE-4AA1-94E4-67E03745C716}|Proxy\\Proxy.csproj|solutionrelative:proxy\\proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B756F013-1549-454D-A6D3-8609A57CD1F7}|Decorator\\Decorator.csproj|g:\\design pattern iti course\\structural-patterns\\decorator\\coffeedecrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B756F013-1549-454D-A6D3-8609A57CD1F7}|Decorator\\Decorator.csproj|solutionrelative:decorator\\coffeedecrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F09B017-5AEE-4AA1-94E4-67E03745C716}|Proxy\\Proxy.csproj|g:\\design pattern iti course\\structural-patterns\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F09B017-5AEE-4AA1-94E4-67E03745C716}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Structural-Patterns\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy\\Program.cs",
+              "ToolTip": "G:\\Design Pattern ITI course\\Structural-Patterns\\Proxy\\Program.cs",
+              "RelativeToolTip": "Proxy\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:55:06.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Structural-Patterns\\Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "Flyweight\\Program.cs",
+              "ToolTip": "G:\\Design Pattern ITI course\\Structural-Patterns\\Flyweight\\Program.cs",
+              "RelativeToolTip": "Flyweight\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:27:18.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATMProxy.cs",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Structural-Patterns\\Proxy\\ATMProxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\ATMProxy.cs",
+              "ToolTip": "G:\\Design Pattern ITI course\\Structural-Patterns\\Proxy\\ATMProxy.cs",
+              "RelativeToolTip": "Proxy\\ATMProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:19:40.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Proxy",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Structural-Patterns\\Proxy\\Proxy.csproj",
+              "RelativeDocumentMoniker": "Proxy\\Proxy.csproj",
+              "ToolTip": "G:\\Design Pattern ITI course\\Structural-Patterns\\Proxy\\Proxy.csproj",
+              "RelativeToolTip": "Proxy\\Proxy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T20:19:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoffeeDecrator.cs",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Structural-Patterns\\Decorator\\CoffeeDecrator.cs",
+              "RelativeDocumentMoniker": "Decorator\\CoffeeDecrator.cs",
+              "ToolTip": "G:\\Design Pattern ITI course\\Structural-Patterns\\Decorator\\CoffeeDecrator.cs",
+              "RelativeToolTip": "Decorator\\CoffeeDecrator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:18:56.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

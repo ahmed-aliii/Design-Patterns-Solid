@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Design Pattern ITI course\\Creational_Patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196BFFD2-13A1-4B4D-8200-649838BF1E86}|ProtoType\\ProtoType.csproj|g:\\design pattern iti course\\creational_patterns\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196BFFD2-13A1-4B4D-8200-649838BF1E86}|ProtoType\\ProtoType.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196BFFD2-13A1-4B4D-8200-649838BF1E86}|ProtoType\\ProtoType.csproj|g:\\design pattern iti course\\creational_patterns\\prototype\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196BFFD2-13A1-4B4D-8200-649838BF1E86}|ProtoType\\ProtoType.csproj|solutionrelative:prototype\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196BFFD2-13A1-4B4D-8200-649838BF1E86}|ProtoType\\ProtoType.csproj|g:\\design pattern iti course\\creational_patterns\\prototype\\idocumentprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196BFFD2-13A1-4B4D-8200-649838BF1E86}|ProtoType\\ProtoType.csproj|solutionrelative:prototype\\idocumentprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Creational_Patterns\\ProtoType\\Program.cs",
+              "RelativeDocumentMoniker": "ProtoType\\Program.cs",
+              "ToolTip": "G:\\Design Pattern ITI course\\Creational_Patterns\\ProtoType\\Program.cs*",
+              "RelativeToolTip": "ProtoType\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:06:42.517Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDocumentProtoType.cs",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Creational_Patterns\\ProtoType\\IDocumentProtoType.cs",
+              "RelativeDocumentMoniker": "ProtoType\\IDocumentProtoType.cs",
+              "ToolTip": "G:\\Design Pattern ITI course\\Creational_Patterns\\ProtoType\\IDocumentProtoType.cs",
+              "RelativeToolTip": "ProtoType\\IDocumentProtoType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:06:58.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "G:\\Design Pattern ITI course\\Creational_Patterns\\ProtoType\\Document.cs",
+              "RelativeDocumentMoniker": "ProtoType\\Document.cs",
+              "ToolTip": "G:\\Design Pattern ITI course\\Creational_Patterns\\ProtoType\\Document.cs",
+              "RelativeToolTip": "ProtoType\\Document.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:06:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
